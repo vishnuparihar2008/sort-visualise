@@ -109,9 +109,12 @@ Runtime keyboard controls:
 ---
 
 ## 💡 Usage Examples
-![ Bubble Sort ](https://github.com/vishnuparihar2008/sort-visualise/blob/main/util/bs.gif)<br>
-![ Selection Sort ](https://github.com/vishnuparihar2008/sort-visualise/blob/main/util/ss.gif)<br>
-![ Insertion Sort ](https://github.com/vishnuparihar2008/sort-visualise/blob/main/util/is.gif)<br>
+Bubble Sort<br>
+![ Bubble Sort ](https://github.com/vishnuparihar2008/sort-visualise/blob/main/util/bs.gif)<br><br>
+Selection Sort<br>
+![ Selection Sort ](https://github.com/vishnuparihar2008/sort-visualise/blob/main/util/ss.gif)<br><br>
+Insertion Sort<br>
+![ Insertion Sort ](https://github.com/vishnuparihar2008/sort-visualise/blob/main/util/is.gif)<br><br>
 
 ---
 
