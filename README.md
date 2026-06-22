@@ -109,9 +109,9 @@ Runtime keyboard controls:
 ---
 
 ## 💡 Usage Examples
-![ Bubble Sort ](https://github.com/vishnuparihar2008/image-viewer/blob/main/util/bs.mp4)
-![ Selection Sort ](https://github.com/vishnupar    ihar2008/image-viewer/blob/main/util/ss.mp4)
-![ Insertion Sort ](https://github.com/vishnupar    ihar2008/image-viewer/blob/main/util/is.mp4)
+![ Bubble Sort ](https://github.com/vishnuparihar2008/sort-visualise/blob/main/util/bs.mp4)
+![ Selection Sort ](https://github.com/vishnuparihar2008/sort-visualise/blob/main/util/ss.mp4)
+![ Insertion Sort ](https://github.com/vishnuparihar2008/sort-visualise/blob/main/util/is.mp4)
 
 ---
 
