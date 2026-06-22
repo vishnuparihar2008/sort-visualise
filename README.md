@@ -1,4 +1,4 @@
-# 🚀 Image Viewer in C
+# 🚀 Sorting Algorithm's Visualiser in C
 A lightweight, terminal-driven sorting algorithm visualiser written in C using the Raylib graphics library.<br>It accepts the array size and algorithm choice as command-line arguments and renders a real-time animated bar chart showing comparisons and swaps frame-by-frame.
 
 ---
